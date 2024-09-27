@@ -1,1 +1,1 @@
-# Boston-College
+# Boston College
