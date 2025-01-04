@@ -4,6 +4,8 @@ This website was created as a project for submission in the University of Michig
 ## Description
 This project offers a brief overview of Boston College, highlighting its reputation, key features, campus highlights, top rankings, and iconic photographs. It's perfect for anyone seeking a quick read or brief insight into Boston College. 
 
+For the best experience, please view it on a desktop.
+
 ## Live Demo
 You can view the project live [here](https://boston-college-tracyto101.netlify.app).
 
